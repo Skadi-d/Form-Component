@@ -1,0 +1,8 @@
+{
+	"name": "skadi-form",
+	"description": "Html form builder for dlang.",
+	"copyright": "Copyright © 2015, faianca",
+	"authors": ["faianca"],
+	"dependencies": {
+	}
+}
